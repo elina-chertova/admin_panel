@@ -1,0 +1,9 @@
+django==3.2
+flake8==4.0
+python-dotenv==0.20.0
+django-admin-rangefilter==0.5.4
+django-admin-numeric-filter==0.1.6
+django-debug-toolbar==3.4.0
+dataclass-csv==1.4.0
+pytest==7.1.2
+pandas==1.4.3

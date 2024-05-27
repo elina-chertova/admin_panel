@@ -1,0 +1,3 @@
+movies_admin/config/.env
+sqlite_to_postgres/.env
+sqlite_to_postgres/project.log
